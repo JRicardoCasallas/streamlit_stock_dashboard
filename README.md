@@ -22,9 +22,9 @@ Un **dashboard interactivo en Streamlit** para visualizar la evolución de preci
 
 1. Clona este repositorio:
    ```bash
-   https://github.com/JRicardoCasallas/streamlit_stock_dashboard
+   git clone https://github.com/JRicardoCasallas/streamlit_stock_dashboard.git
    cd streamlit_stock_dashboard
-   cd streamlit_stock_dashboard
+   
    ```
 
 2. Crea un entorno virtual e instala dependencias:
